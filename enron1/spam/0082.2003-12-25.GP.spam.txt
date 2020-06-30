@@ -1,0 +1,62 @@
+Hriday PanchasaraCONTACT
+• 2673 Menlo Ave Apt 2C, Los Angeles 90007
+• +1 858 436 4297
+• hhpancha@usc.edu
+• hriday81298.p@gmail.com
+LINKS
+Github:
+https://www.github.com/hpanchausc
+LinkedIn:
+https://linkedin.com/in/ hriday-panchasara-55527b116
+COURSEWORK
+UNDERGRADUATE
+Full-Stack Web Development Software Engineering Professional C++
+Computer Organization Operating Systems
+Object Oriented Algorithms and Design Discrete Mathematics
+Software Tools and Techniques
+LANGUAGES
+•Java•C•C++
+• PHP • JavaScript • MATLAB • CSS3 • HTML • Python
+• ARM Assembly
+TECHNOLOGIES
+• React.js • Bootstrap • Node.js
+• MongoDB • IOS (Swift) • MySQL • Android (Android Studio)
+• Wordpress
+INVOLVEMENT
+SC SOLAR CAR TEAM
+• August 2018 - December 2018 Helped develop web dashboard for all sensor data to be monitored from chase vehicle.
+COMMUNITY SERVICE
+• August 2018 - December 2018 USC Joint Education “Coding for Kids” Program CS Teacher.
+EDUCATION
+UNIVERSITY OF SOUTHERN CALIFORNIA
+January 2018 – May 2020 | Transferred as of January 2018
+• ViterbiSchoolofEngineering,BachelorofScience,ComputerScience.
+UNIVERSITY OF CALIFORNIA - SAN DIEGO
+September 2016 – January 2018
+EXPERIENCE
+SOFTWARE ENGINEER INTERN - AGREEYA SOLUTIONS May 2019 - August 2019 | Folsom, California
+• Assistedinbackenddevelopmentonaportfolioweb-applicationforcompany stakeholders (development, sales).
+• IntegratedMicrosoftSharePointandProjectOnline(PWA)toperformCRUD operations with team and project data.
+• CreateafunctionalmiddlewareusingReactJStoreturndatabacktoclient.
+• Establishedafull-stackPOCtodeployPower-BIdashboardsandreportsonline using Power BI API’s.
+SOFTWARE DEVELOPER INTERN - TURNOVERBNB June 2018 - August 2018 | Honolulu, Hawaii
+• Ledateamofsoftwaredeveloperapprenticesintheproductdevelopment department.
+• DevelopedfullstackwebapplicationsfocusedonA/Btesting.
+• Improvedexistingplatformbyimplementingnewfeaturesandtrackinguser interactions.
+• Technologiesused:Laravel,Vue.JS,Bootstrap,MixpanelAPI,Java,SQL.
+PROJECTS
+SMS-MARKETING
+(https://github.com/hpanchausc/SMS-Marketing) September 2019
+• Send mass text messages to a big list of customers for the purpose of feedback.
+• Handle credit cards and receive payments from users with Stripe.
+• Usesentimentanalysistoanalyzecustomerresponses.
+• Recordpositive/negativefeedbackonbackendserver.
+• TechnologiesUsed:React,Node.JS,MongoDBAtlas,Heroku,Stripe,Twilio, Google OAuth 2.0.
+DARKERNOTES (https://github.com/hpanchausc/DarkerNotes) November 2018
+• Adark-themednote-takingwebapplicationwithMarkdownandLaTeXstyle rendering.
+• Other features include autosave, cloud functionality, note sharing and basic text editing tools.
+• Technologiesused:Java,SQL,HTML,Js(Bootstrap),CSS.
+MUSEUM AR (https://github.com/hpanchausc/MuseumAR) August 2018
+• AnAugmentedReality(AR)applicationmadeusingtheiOSARKitframework.
+• Implementsimagerecognitioncapabilitiesthatcanbeusedbymuseumsto augment their collections with additional information.
+• Technologiesused:IOS(Swift),ARKitFramework.
